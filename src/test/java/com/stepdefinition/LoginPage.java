@@ -32,7 +32,7 @@ public class LoginPage {
 
 		WebElement txtpass = driver.findElement(By.id("password"));
 		txtpass.sendKeys(string2);
-
+		System.out.println("hello");
 		driver.findElement(By.id("login")).click();
 	}
 
