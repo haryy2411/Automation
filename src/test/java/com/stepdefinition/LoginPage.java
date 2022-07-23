@@ -22,6 +22,14 @@ public class LoginPage {
 		driver = new ChromeDriver();
 		driver.get("https://adactinhotelapp.com/");
 		driver.manage().window().maximize();
+		System.out.println("sdddddddddddddddddd");
+		System.out.println("sdddddddddddddddddd");
+		System.out.println("sdddddddddddddddddd");
+		System.out.println("sdddddddddddddddddd");
+		System.out.println("sdddddddddddddddddd");
+		System.out.println("sdddddddddddddddddd");
+		System.out.println("sdddddddddddddddddd");
+		System.out.println("sdddddddddddddddddd");
 
 
 	}
